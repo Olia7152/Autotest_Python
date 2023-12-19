@@ -1,0 +1,8 @@
+url: 'https://test-stand.gb.ru/gateway/login'
+address: 'https://test-stand.gb.ru/api/posts'
+address_post: 'https://test-stand.gb.ru/gateway/posts'
+login: 'DavidMcConaughey'
+pswd: '1a33758915'
+title: 'New_title'
+description: 'Мэ́ттью Дэ́вид Макко́нахи'
+content: 'Мэ́ттью Дэ́вид Макко́нахи (англ. Matthew David McConaughey; род. 4 ноября 1969, Ювалде, Техас, США)[3] — американский актёр и продюсер.'
