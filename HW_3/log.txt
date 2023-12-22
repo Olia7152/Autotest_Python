@@ -1,0 +1,10 @@
+2023-12-22 13:51:45 INFO ====== WebDriver manager ======
+2023-12-22 13:51:48 INFO Get LATEST chromedriver version for google-chrome
+2023-12-22 13:51:49 INFO Get LATEST chromedriver version for google-chrome
+2023-12-22 13:51:49 INFO Driver [C:\Users\admin\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+2023-12-22 13:51:51 INFO Test login_positive Starting
+2023-12-22 13:51:51 INFO Send 'DavidMcConaughey' to element //*[@id="login"]/div[1]/label/input
+2023-12-22 13:51:52 INFO Send '1a33758915' to element //*[@id="login"]/div[2]/label/input
+2023-12-22 13:51:52 INFO Click login button
+2023-12-22 13:51:52 INFO Start find success text
+2023-12-22 13:51:53 INFO We find text 'Hello, DavidMcConaughey' in login field //*[@id="app"]/main/nav/ul/li[3]/a
