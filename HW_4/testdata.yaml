@@ -1,0 +1,19 @@
+address: https://test-stand.gb.ru
+browser: Chrome
+sleep_time: 1
+
+login: DavidMcConaughey
+pswd: 1a33758915
+
+title: njkkjk
+description: jhjhfghfgfdgf
+content: hbjghgfhdgfdx
+
+u_name: olia7152
+u_email: olia7152@mail.ru
+content_contact: домашка
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: test
